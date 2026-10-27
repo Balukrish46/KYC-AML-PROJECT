@@ -1,0 +1,101 @@
+customer_id,name,country,customer_type,account_age_days,is_high_risk,registration_date
+CUST00001,Shane Marshall,North Korea,individual,3067,True,2024-04-29
+CUST00002,Sean Michael,Yemen,individual,944,True,2023-09-08
+CUST00003,Stacy Martin,Iran,individual,2801,True,2026-03-05
+CUST00004,Lance Park,Libya,individual,2448,True,2024-05-28
+CUST00005,Todd Morton,South Sudan,individual,152,True,2023-05-11
+CUST00006,Elizabeth Brady,North Korea,individual,982,True,2024-03-27
+CUST00007,Mr. Robert Bartlett,Libya,individual,2328,True,2023-04-03
+CUST00008,Samuel Lawson,Syria,corporate,932,True,2024-12-27
+CUST00009,Suzanne Ray,Somalia,corporate,3345,True,2022-09-11
+CUST00010,Robert Randolph,Afghanistan,individual,2889,True,2025-08-18
+CUST00011,Elizabeth Cooper,Malaysia,corporate,1423,False,2021-11-21
+CUST00012,Randall Lawson,Liberia,corporate,666,False,2022-10-04
+CUST00013,Dana Jenkins,Singapore,individual,3157,False,2022-10-19
+CUST00014,Howard Harper,Algeria,corporate,448,False,2026-03-06
+CUST00015,Valerie Chen,Puerto Rico,individual,1586,False,2023-03-20
+CUST00016,Susan Carter,Iran,individual,1500,False,2025-01-22
+CUST00017,Amy Ward,Sweden,corporate,2502,False,2026-04-19
+CUST00018,Logan Fields,Cote d'Ivoire,corporate,3335,False,2023-02-09
+CUST00019,Jared Mcdaniel,Cyprus,individual,3018,False,2022-02-17
+CUST00020,Justin Rhodes,Swaziland,corporate,2226,False,2025-06-11
+CUST00021,Lori Anderson,Jordan,individual,1580,False,2026-09-28
+CUST00022,Veronica Delacruz,Angola,individual,2291,False,2024-11-14
+CUST00023,Phyllis Rowe,Serbia,corporate,3427,False,2023-08-20
+CUST00024,Elaine Collier,Kiribati,corporate,2394,False,2025-10-28
+CUST00025,Eddie Watson,Norfolk Island,individual,2915,False,2024-07-28
+CUST00026,Stacy Jones,Faroe Islands,individual,217,False,2025-08-24
+CUST00027,Cynthia Ortiz,Christmas Island,individual,3196,False,2022-12-07
+CUST00028,Michael White,Mozambique,corporate,356,False,2022-04-08
+CUST00029,Kara Mosley,Seychelles,individual,3579,False,2022-11-25
+CUST00030,Megan Cox,Andorra,individual,1586,False,2022-04-04
+CUST00031,Daniel Pollard,Uganda,corporate,1887,False,2025-01-09
+CUST00032,Natasha Lee,Paraguay,corporate,696,False,2023-02-10
+CUST00033,Kevin Wallace,Jamaica,corporate,1485,False,2025-03-10
+CUST00034,Valerie Love,El Salvador,individual,2775,False,2022-07-14
+CUST00035,Jamie Berry,Niger,corporate,2904,False,2025-06-22
+CUST00036,Brenda Ramirez,Botswana,individual,2525,False,2024-06-21
+CUST00037,Joshua Mcgee,Faroe Islands,individual,2217,False,2022-02-08
+CUST00038,Ralph Martinez,Sao Tome and Principe,individual,699,False,2022-05-19
+CUST00039,Diane Martin,Bahrain,corporate,1584,False,2025-03-01
+CUST00040,Jordan Davis,Portugal,corporate,2651,False,2026-08-05
+CUST00041,Bryan Barrera,Singapore,individual,2834,False,2021-12-30
+CUST00042,Heidi Jones,United States Virgin Islands,corporate,3482,False,2024-07-22
+CUST00043,Christian Martin,Pakistan,individual,968,False,2025-04-12
+CUST00044,Timothy Bell,Philippines,individual,3327,False,2026-05-14
+CUST00045,Mrs. Linda Boyd MD,Slovenia,corporate,1673,False,2025-09-23
+CUST00046,Joyce Young,Canada,corporate,301,False,2023-03-05
+CUST00047,Michael Lawson,Sierra Leone,individual,2353,False,2025-06-02
+CUST00048,Victoria Valencia,Syrian Arab Republic,corporate,900,False,2022-08-02
+CUST00049,Benjamin Brock,Pitcairn Islands,corporate,1650,False,2023-08-08
+CUST00050,Julie Johnson,Anguilla,corporate,615,False,2025-02-07
+CUST00051,Carrie Ferguson,Falkland Islands (Malvinas),corporate,601,False,2024-04-10
+CUST00052,Jennifer Yoder,Saint Pierre and Miquelon,individual,3081,False,2024-09-07
+CUST00053,Jonathan Jones,Colombia,corporate,3089,False,2025-05-04
+CUST00054,Amanda Harris,Vanuatu,corporate,2420,False,2025-11-01
+CUST00055,Mrs. Nicole Crawford DVM,Haiti,corporate,1512,False,2026-08-21
+CUST00056,Tanya Wilson,Australia,individual,596,False,2023-03-19
+CUST00057,Matthew Middleton,Saint Vincent and the Grenadines,corporate,402,False,2026-01-17
+CUST00058,John Morales,South Africa,individual,3557,False,2021-11-11
+CUST00059,Anna Merritt,Congo,individual,656,False,2023-10-17
+CUST00060,Robert Davis,Panama,individual,3274,False,2024-03-22
+CUST00061,Justin Green,Mayotte,corporate,2472,False,2025-12-05
+CUST00062,Gabriella Hall,Cote d'Ivoire,individual,1606,False,2024-09-14
+CUST00063,Bill Gomez,Colombia,corporate,2470,False,2025-07-31
+CUST00064,Katherine Ross,United States Minor Outlying Islands,corporate,2197,False,2025-04-09
+CUST00065,Tiffany Austin,Zimbabwe,corporate,2296,False,2023-04-16
+CUST00066,Jason Hutchinson,Cayman Islands,individual,2816,False,2025-06-29
+CUST00067,Martin Smith,Antigua and Barbuda,individual,2822,False,2024-05-03
+CUST00068,Louis Garcia,Rwanda,corporate,3178,False,2023-02-23
+CUST00069,Barbara Jacobs,Kuwait,corporate,486,False,2024-03-07
+CUST00070,Brian Wood,Gabon,corporate,1810,False,2022-01-06
+CUST00071,Donald Wiggins,Benin,individual,1888,False,2023-05-10
+CUST00072,Erin Stewart,Eritrea,individual,2987,False,2026-01-31
+CUST00073,James Fuentes,Turkey,corporate,2080,False,2023-08-11
+CUST00074,John Richards,Madagascar,individual,2109,False,2022-05-23
+CUST00075,James Snyder,Saint Barthelemy,individual,3595,False,2023-05-15
+CUST00076,Samantha Hunter,Iraq,corporate,3477,False,2025-11-05
+CUST00077,Yolanda Lee,Papua New Guinea,individual,656,False,2025-05-29
+CUST00078,Kaitlin Collins,Jamaica,corporate,3153,False,2023-06-12
+CUST00079,Ashley Simpson,French Polynesia,individual,2239,False,2021-12-13
+CUST00080,Jonathan Thomas,Guatemala,individual,2483,False,2025-02-10
+CUST00081,Debra Blevins,Paraguay,corporate,2031,False,2023-06-12
+CUST00082,Shaun Alvarado,Sao Tome and Principe,individual,488,False,2023-02-20
+CUST00083,Tiffany Espinoza,Ecuador,corporate,3629,False,2024-10-07
+CUST00084,Brandy Anderson,Gabon,corporate,1010,False,2023-06-14
+CUST00085,Jenna Lynch,Saint Kitts and Nevis,individual,1016,False,2024-12-25
+CUST00086,Joshua Rivera,Dominican Republic,individual,380,False,2024-07-13
+CUST00087,Kristen Newman,Cook Islands,corporate,3372,False,2026-06-17
+CUST00088,Hector Lynn,Mali,individual,3145,False,2025-03-12
+CUST00089,Ian Miller,Bangladesh,individual,555,False,2025-06-17
+CUST00090,Michaela Smith,Nigeria,corporate,2281,False,2023-08-14
+CUST00091,Larry Williams,Saint Lucia,individual,1115,False,2025-05-12
+CUST00092,Thomas Flynn,Korea,corporate,897,False,2022-08-16
+CUST00093,Thomas Myers,Tonga,individual,2950,False,2024-08-31
+CUST00094,Ashlee Garcia,Somalia,corporate,1664,False,2025-02-18
+CUST00095,Lisa Wright,Malaysia,corporate,1824,False,2022-04-03
+CUST00096,Ryan Jones,Luxembourg,corporate,525,False,2023-10-25
+CUST00097,Matthew Kim,Guadeloupe,individual,950,False,2023-05-01
+CUST00098,Regina Smith,Hong Kong,individual,1414,False,2024-08-24
+CUST00099,Xavier Taylor,Palau,individual,2439,False,2023-04-14
+CUST00100,Harry Lane,Uzbekistan,individual,2440,False,2026-01-26

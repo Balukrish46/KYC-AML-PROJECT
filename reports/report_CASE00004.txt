@@ -1,0 +1,125 @@
+================================================================================
+AML INVESTIGATION REPORT
+================================================================================
+
+CASE INFORMATION
+--------------------------------------------------------------------------------
+Case ID: CASE00004
+Alert ID: STR00065
+Status: OPEN
+Priority: HIGH
+Risk Score: 100.0
+Alert Type: structuring
+Assigned To: Analyst_1
+Created: 2026-10-27 16:07:01
+
+CUSTOMER INFORMATION
+--------------------------------------------------------------------------------
+Customer ID: CUST00010
+Name: Robert Randolph
+Country: Afghanistan
+Customer Type: individual
+Account Age: 2889 days
+Registration Date: 2025-08-18
+
+TRANSACTION DETAILS
+--------------------------------------------------------------------------------
+Number of Transactions: 13
+Total Amount: $101,182.49
+
+Transaction List:
+--------------------------------------------------------------------------------
+  - TXN809011
+    Date: 2026-10-27 04:54:32.594670
+    Amount: $6,628.59
+    Type: transfer
+    Counterparty: Logan, Morales and Miller
+    Country: Sweden
+
+  - TXN896841
+    Date: 2026-10-27 05:27:32.594670
+    Amount: $7,180.30
+    Type: transfer
+    Counterparty: Thompson Inc
+    Country: San Marino
+
+  - TXN315936
+    Date: 2026-10-27 06:07:32.594670
+    Amount: $9,071.35
+    Type: transfer
+    Counterparty: Bird, Banks and Chase
+    Country: China
+
+  - TXN321239
+    Date: 2026-10-27 07:47:32.594670
+    Amount: $9,400.32
+    Type: transfer
+    Counterparty: Blevins-Lee
+    Country: Papua New Guinea
+
+  - TXN515611
+    Date: 2026-10-27 08:21:32.594670
+    Amount: $7,112.74
+    Type: transfer
+    Counterparty: Jimenez Ltd
+    Country: Poland
+
+  - TXN519225
+    Date: 2026-10-27 08:54:32.594670
+    Amount: $9,815.78
+    Type: transfer
+    Counterparty: Gardner-Ruiz
+    Country: Qatar
+
+  - TXN858422
+    Date: 2026-10-27 10:01:32.594670
+    Amount: $9,014.73
+    Type: transfer
+    Counterparty: Burns, Johnson and Watson
+    Country: Guinea
+
+  - TXN812756
+    Date: 2026-10-27 10:32:32.594670
+    Amount: $7,043.50
+    Type: transfer
+    Counterparty: Hill, Maldonado and Gardner
+    Country: Bangladesh
+
+  - TXN977634
+    Date: 2026-10-27 10:43:32.594670
+    Amount: $6,773.11
+    Type: transfer
+    Counterparty: Campbell-Jenkins
+    Country: Guinea-Bissau
+
+  - TXN715841
+    Date: 2026-10-27 11:22:32.594670
+    Amount: $6,716.16
+    Type: transfer
+    Counterparty: Fowler Group
+    Country: Bangladesh
+
+  - TXN395988
+    Date: 2026-10-27 11:50:32.594670
+    Amount: $5,192.78
+    Type: transfer
+    Counterparty: Rose-Wood
+    Country: Angola
+
+  - TXN244756
+    Date: 2026-10-27 13:46:32.594670
+    Amount: $8,026.83
+    Type: transfer
+    Counterparty: Bartlett PLC
+    Country: Gambia
+
+  - TXN999281
+    Date: 2026-10-27 15:17:32.594670
+    Amount: $9,206.30
+    Type: transfer
+    Counterparty: Garner LLC
+    Country: Israel
+
+================================================================================
+Report Generated: 2026-10-27 16:07:01
+================================================================================

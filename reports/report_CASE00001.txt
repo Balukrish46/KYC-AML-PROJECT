@@ -1,0 +1,76 @@
+================================================================================
+AML INVESTIGATION REPORT
+================================================================================
+
+CASE INFORMATION
+--------------------------------------------------------------------------------
+Case ID: CASE00001
+Alert ID: STR00010
+Status: OPEN
+Priority: HIGH
+Risk Score: 100.0
+Alert Type: structuring
+Assigned To: Analyst_1
+Created: 2026-10-27 16:07:01
+
+CUSTOMER INFORMATION
+--------------------------------------------------------------------------------
+Customer ID: CUST00009
+Name: Suzanne Ray
+Country: Somalia
+Customer Type: corporate
+Account Age: 3345 days
+Registration Date: 2022-09-11
+
+TRANSACTION DETAILS
+--------------------------------------------------------------------------------
+Number of Transactions: 6
+Total Amount: $32,389.92
+
+Transaction List:
+--------------------------------------------------------------------------------
+  - TXN827718
+    Date: 2026-10-21 09:29:32.593994
+    Amount: $7,072.50
+    Type: transfer
+    Counterparty: INTERMEDIARY_19
+    Country: Ecuador
+
+  - TXN642668
+    Date: 2026-10-21 14:39:32.593994
+    Amount: $5,824.37
+    Type: transfer
+    Counterparty: INTERMEDIARY_20
+    Country: Honduras
+
+  - TXN829576
+    Date: 2026-10-22 06:34:32.593994
+    Amount: $4,874.61
+    Type: transfer
+    Counterparty: INTERMEDIARY_22
+    Country: Greenland
+
+  - TXN111631
+    Date: 2026-10-22 10:42:32.593994
+    Amount: $5,117.72
+    Type: transfer
+    Counterparty: INTERMEDIARY_23
+    Country: Sweden
+
+  - TXN948439
+    Date: 2026-10-23 03:31:32.593994
+    Amount: $7,611.64
+    Type: transfer
+    Counterparty: INTERMEDIARY_18
+    Country: United States of America
+
+  - TXN545441
+    Date: 2026-10-23 07:34:32.593994
+    Amount: $1,889.08
+    Type: transfer
+    Counterparty: INTERMEDIARY_29
+    Country: Namibia
+
+================================================================================
+Report Generated: 2026-10-27 16:07:01
+================================================================================

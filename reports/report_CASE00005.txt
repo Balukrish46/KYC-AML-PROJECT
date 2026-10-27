@@ -1,0 +1,76 @@
+================================================================================
+AML INVESTIGATION REPORT
+================================================================================
+
+CASE INFORMATION
+--------------------------------------------------------------------------------
+Case ID: CASE00005
+Alert ID: STR00022
+Status: OPEN
+Priority: HIGH
+Risk Score: 100.0
+Alert Type: structuring
+Assigned To: Analyst_2
+Created: 2026-10-27 16:07:01
+
+CUSTOMER INFORMATION
+--------------------------------------------------------------------------------
+Customer ID: CUST00009
+Name: Suzanne Ray
+Country: Somalia
+Customer Type: corporate
+Account Age: 3345 days
+Registration Date: 2022-09-11
+
+TRANSACTION DETAILS
+--------------------------------------------------------------------------------
+Number of Transactions: 6
+Total Amount: $38,115.37
+
+Transaction List:
+--------------------------------------------------------------------------------
+  - TXN534208
+    Date: 2026-10-24 10:02:32.593994
+    Amount: $9,096.38
+    Type: transfer
+    Counterparty: INTERMEDIARY_16
+    Country: Anguilla
+
+  - TXN549214
+    Date: 2026-10-24 13:32:32.593994
+    Amount: $3,413.28
+    Type: transfer
+    Counterparty: INTERMEDIARY_27
+    Country: Germany
+
+  - TXN347660
+    Date: 2026-10-24 18:07:32.593994
+    Amount: $2,810.65
+    Type: transfer
+    Counterparty: INTERMEDIARY_26
+    Country: British Indian Ocean Territory (Chagos Archipelago)
+
+  - TXN583388
+    Date: 2026-10-25 08:37:32.579994
+    Amount: $9,825.59
+    Type: transfer
+    Counterparty: Wright, Bass and Welch
+    Country: Iran
+
+  - TXN689403
+    Date: 2026-10-25 12:47:32.593994
+    Amount: $4,272.01
+    Type: transfer
+    Counterparty: INTERMEDIARY_25
+    Country: Botswana
+
+  - TXN506532
+    Date: 2026-10-25 15:14:32.593994
+    Amount: $8,697.46
+    Type: transfer
+    Counterparty: INTERMEDIARY_17
+    Country: Cook Islands
+
+================================================================================
+Report Generated: 2026-10-27 16:07:01
+================================================================================
